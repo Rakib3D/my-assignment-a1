@@ -11,7 +11,7 @@ body {
     width: 1320px;
     height: 600px;
     border-radius: 16px;
-    background-image: url(../Banner\ Image.png);
+    background-image: url(../image/Banner\ Image.png);
     background-repeat: no-repeat;
 }
 
@@ -75,7 +75,7 @@ h4 {
 
 .disscoutnt-img{
     margin-top: 20px;
-    margin-left: 325px;
+    margin-left: 205px;
 }
 .img{
     width: 665px;
