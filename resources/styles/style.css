@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -10,11 +10,12 @@ body {
 .banner {
     width: 1320px;
     height: 600px;
+    border-radius: 16px;
     background-image: url(../Banner\ Image.png);
     background-repeat: no-repeat;
 }
 
-.banner-text{
+.banner-text {
     width: 500px;
     height: 300px;
     padding: 215px 0px 0px 340px;
@@ -34,4 +35,49 @@ h1 {
     font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
+}
+
+main {
+    width: 1320px;
+    height: 190px;
+}
+
+.disscount-text {
+    width: 500px;
+    margin-top: 75px;
+    margin-left: 375px;
+}
+
+h4 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.our {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 18px;
+}
+
+.all {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.disscoutnt-img{
+    margin-top: 20px;
+    margin-left: 325px;
+}
+.img{
+    width: 665px;
+    height: 480px;
 }
